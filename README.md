@@ -17,7 +17,7 @@ O desenvolvimento do site foi realizado utilizando ReactJS, Framer Motion e Styl
 
 
 ### Link do Portfólio
-https://portfolio-mateusmiranda.netlify.app/projects
+https://portfolio-mateusmiranda.netlify.app
 
 
 
