@@ -23,7 +23,6 @@ https://portfolio-mateusmiranda.netlify.app
 
 
 
-
 <div align="center">
 <img src="https://github.com/MateusJunio016/imagensPortfolio/blob/main/pikachu.gif" />
 </div>
