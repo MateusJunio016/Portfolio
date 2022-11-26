@@ -108,8 +108,6 @@ const AboutPage = () => {
                         Sou formado como técnico em informática para internet na Etec de Votorantim e Atualmente curso Análise e Desenvolvimento de Sistemas,
                         na Fatec de Sorocaba. Iniciei minha carreira na área de tecnologia ainda neste ano, e hoje trabalho na área de dados, mesmo que apaixonado pela
                         área de programação também.
-                        <br></br><br></br>
-                        Se quiser se conectar comigo, você pode acessar minhas redes sociais ou me mandar um e-mail, será um prazer conhecê-lo!!
                         {' '}
                     </Main>
                     <BigTitle text='SOBRE' top='10%' left='5%' />
