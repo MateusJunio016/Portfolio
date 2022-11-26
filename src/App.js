@@ -6,6 +6,7 @@ import Main from './components/Main'
 import AboutPage from './components/AboutPage'
 import ProjectsPage from './components/ProjectsPage'
 import MySkillsPage from './components/MySkillsPage'
+import SoundBar from "./subComponents/SoundBar";
 
 function App() {
   return <>
@@ -14,6 +15,7 @@ function App() {
 
 
 <ThemeProvider theme={lightTheme}>
+<SoundBar/>
     <Switch>
     <Route exact path="/" component={Main}/>
     <Route exact path="/about" component={AboutPage}/>
