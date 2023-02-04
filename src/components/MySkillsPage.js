@@ -142,7 +142,7 @@ const MySkillsPage = () => {
                             <Design width={40} height={40} /> Designer
                         </Title>
                         <Description>
-                            Gosto muito de realizar design de flyers, propagandas e até mesmo protótipos de site.
+                            Gosto muito da área de design. Já realizei freelancer de flyers, propagandas e até mesmo protótipos de site. Ainda pretendo trabalhar com UX, uma área em constante crescimento que está sendo meu maior interesse no momento.
                         </Description>
                         <Description>
                             <strong>Skills</strong> <br />
