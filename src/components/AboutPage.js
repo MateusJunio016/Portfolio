@@ -105,7 +105,7 @@ const AboutPage = () => {
                         animate={{ opacity: 1, transition: { duration: 1, delay: 1 } }}>
                         Olá, Como vai??
                         Me chamo Mateus, tenho 19 anos e moro em Votorantim, interior de São Paulo.<br></br><br></br>
-                        Sou formado como técnico em informática para internet na Etec de Votorantim e Atualmente curso Análise e Desenvolvimento de Sistemas,
+                        Sou formado como técnico em informática para internet na Etec de Votorantim e atualmente curso Análise e Desenvolvimento de Sistemas,
                         na Fatec de Sorocaba. Iniciei minha carreira na área de tecnologia ainda neste ano, e hoje trabalho na área de dados, mesmo que apaixonado pela
                         área de programação também.
                         {' '}
