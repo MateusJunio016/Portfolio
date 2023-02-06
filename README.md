@@ -1,6 +1,6 @@
 # Programação para Web - Desenvolvendo um portfólio
 
-Proposta: Criação de um site (portfólio do aluno) com o design com o tema baseado em um jogo, HQ, série ou filme preferido. 
+Proposta: Criação de um site (portfólio do aluno) com o tema baseado em um jogo, HQ, série ou filme preferido. 
 
 
 ### Tema Escolhido: Pokémon
