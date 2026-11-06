@@ -63,7 +63,7 @@ const SoundBar = () => {
         }
     }
     return (
-        <Box onClick={() => handleClick()}>
+        <Box data-button-name="Música" role="button" onClick={() => handleClick()}>
             <Line click={click}/>
             <Line click={click}/>
             <Line click={click}/>

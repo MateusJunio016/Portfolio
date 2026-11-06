@@ -5,6 +5,9 @@ import App from './App';
 // import reportWebVitals from './reportWebVitals';
 import '../node_modules/normalize.css'
 import { BrowserRouter } from 'react-router-dom';
+import { initClickTracking } from './utils/trackClicks';
+
+initClickTracking();
 
 ReactDOM.render(
   <React.StrictMode>

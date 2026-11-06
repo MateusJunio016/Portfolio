@@ -37,7 +37,7 @@ cursor: pointer;
 const PowerButton = () => {
     return (
         <Power>
-            <NavLink to="/">
+            <NavLink to="/" aria-label="Início">
             <PowerBtn width={25.5} height={25.5} fill='currentColor' />
             </NavLink>
         </Power>

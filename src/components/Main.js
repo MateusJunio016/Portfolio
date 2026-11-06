@@ -187,6 +187,7 @@ const Main = () => {
                     <Center click={click}>
                         {mq ? (
                             <Pokeball
+                                data-button-name="Pokebola"
                                 onClick={() => handleClick()}
                                 width={click ? 80 : 150}
                                 height={click ? 80 : 150}
@@ -194,6 +195,7 @@ const Main = () => {
                             />
                         ) : (
                             <Pokeball
+                                data-button-name="Pokebola"
                                 onClick={() => handleClick()}
                                 width={click ? 120 : 200}
                                 height={click ? 120 : 200}
