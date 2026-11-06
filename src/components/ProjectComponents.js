@@ -100,7 +100,7 @@ const ProjectComponents = ({ name, tags, date, imgSrc, link }) => {
   // console.log(tags)
   return (
     <Container variants={item}>
-      <Box data-button-name={name} target="_blank" to={{ pathname: `${link}` }}>
+      <Box data-track-link target="_blank" to={{ pathname: `${link}` }}>
         <Image img={imgSrc} />
         <Title>{name}</Title>
         <HashTags>

@@ -108,10 +108,10 @@ const Card = (props) => {
                 }
             </Tags>
             <Footer>
-                <Link data-button-name={`Visit - ${name}`} to={{pathname: `${demo}`}} target="_blank">
+                <Link data-track-link to={{pathname: `${demo}`}} target="_blank">
                     Visit
                 </Link>
-                <Git data-button-name={`GitHub - ${name}`} to={{pathname: `${github}`}} target="_blank">
+                <Git data-track-link to={{pathname: `${github}`}} target="_blank">
                     <Github width={30} height={30} />
                 </Git>
             </Footer>
